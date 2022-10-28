@@ -4,9 +4,13 @@
 3 - cd ../..
 
 #### start server
-1 - be on root location command to start server `python manage.py runserver`
+1 - must be on root folder command to start server `python manage.py runserver`
 
 #### test cases
 1 - `python manage.py test`
 
-####
+#### deployed to heroku 
+1 -  https://aiworks.herokuapp.com/
+
+#### github link
+1 - https://github.com/tahirahmadali/AI_work
