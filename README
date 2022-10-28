@@ -1,0 +1,12 @@
+#### First activate Virtual ENV
+1 - cd venv/script
+2 - activate
+3 - cd ../..
+
+#### start server
+1 - be on root location command to start server `python manage.py runserver`
+
+#### test cases
+1 - `python manage.py test`
+
+####
